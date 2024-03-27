@@ -1,0 +1,29 @@
+@import './base.css';
+
+body {
+  display: flex;
+  place-items: center;
+}
+
+#app {
+  width: 100%;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0 2rem;
+  min-width: 1300px;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
