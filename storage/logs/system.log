@@ -1,6 +1,0 @@
-{"level":"warn","ts":1709211599.1196318,"caller":"bootstrap/init.go:28","msg":"aaaaaddddddcc"}
-{"level":"info","ts":1709211701.385508,"caller":"server/http.go:123","msg":"Shutdown Server!"}
-{"level":"info","ts":1709211701.386747,"caller":"server/http.go:137","msg":"Server exiting!"}
-{"level":"WARN","created_at":"2024-02-29 21:01:44","caller":"bootstrap/init.go:28","msg":"aaaaaddddddcc","stacktrace":"github.com/rancher-setup/internal/bootstrap.init.0\n\t/Users/wangsiye/Documents/gopath/src/github.com/rancher-setup/internal/bootstrap/init.go:28\nruntime.doInit1\n\t/usr/local/go/src/runtime/proc.go:6740\nruntime.doInit\n\t/usr/local/go/src/runtime/proc.go:6707\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:249"}
-{"level":"INFO","created_at":"2024-02-29 21:02:07","caller":"server/http.go:123","msg":"Shutdown Server!"}
-{"level":"INFO","created_at":"2024-02-29 21:02:07","caller":"server/http.go:137","msg":"Server exiting!"}
